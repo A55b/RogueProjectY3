@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\tom\source\repos\rogueprojecty3\rogue project\rogue project\source.cpp(63): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Rogue Project.vcxproj -> C:\Users\Tom\source\repos\RogueProjectY3\Rogue Project\Debug\Rogue Project.exe
